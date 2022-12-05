@@ -1,0 +1,13 @@
+@media (max-width: 768px){
+.burgerbar{
+    display: flex;
+}
+.menu{
+    display: none;
+}
+
+.movies{
+    display: flex;
+    flex-direction: column;
+}
+}
